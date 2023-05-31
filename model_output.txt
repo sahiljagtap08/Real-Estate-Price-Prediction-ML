@@ -1,0 +1,16 @@
+lin_reg
+
+Mean:  5.037482786117751
+Standard deviation:  1.0594382405606952
+
+
+dec_tree_reg
+
+Mean:  4.186662320663597
+Standard deviation:  0.6468578484878521
+
+
+rand_for_reg
+
+Mean:  3.3639687779476284
+Standard deviation:  0.6967558527716741
